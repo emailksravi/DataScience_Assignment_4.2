@@ -15,5 +15,5 @@ a vowel, False otherwise.
 
 ![alt text](screenshots/word_length.png "Function map implementation 1")
 
-![alt text](screenshots/vowel_check_.png "Function map implementation 2")
+![alt text](screenshots/vowel_check.png "Function map implementation 2")
 
